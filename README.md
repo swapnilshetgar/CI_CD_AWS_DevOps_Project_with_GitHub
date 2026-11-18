@@ -4,7 +4,7 @@ Ye project ek static security/Guarder website ko Docker container mein package a
 
 ## Architecture
 
-![Project Architecture](images/Architecture-new.png)
+![Project Architecture](Architecture-new.png)
 
 Architecture flow:
 
